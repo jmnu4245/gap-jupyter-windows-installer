@@ -4,6 +4,9 @@
 [🇺🇸 English](#instructions-for-use)
 
 ---
+## Objetivo del script
+
+El objetivo de este script es permitir al usuario utilizar gap en un jupyter notebook sin conocer los entresijos de su configuración.
 
 ## INSTRUCCIONES DE USO
 
@@ -138,7 +141,8 @@ sudo apt-get install texlive-xetex texlive-fonts-recommended texlive-plain-gener
 -----
 
 -----
-
+## Purpose of this script
+The purpose of this script is to let you use GAP in a Jupyter Notebook without worrying about complex setup details
 ## INSTRUCTIONS FOR USE
 
 A correct execution simply involves running `install.bat` with administrator privileges and following the prompts. Please note that the process may require several system restarts.
