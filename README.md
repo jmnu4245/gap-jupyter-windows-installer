@@ -1,4 +1,4 @@
-# gap-windows-setup
+# gap-jupyter-windows-installer
 
 [🇪🇸 Español](#instrucciones-de-uso) 
 [🇺🇸 English](#instructions-for-use)
