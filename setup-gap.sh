@@ -50,7 +50,7 @@ rm -f "$USER_HOME/gap-4.15.1.tar.gz"
 # --- PASO 3: Instalar dependencias del sistema (como root) ---
 echo -n "[INFO] Instalando dependencias del sistema..."
 apt-get -y update > /dev/null 2>&1
-apt-get -y install build-essential autoconf libtool libgmp-dev libreadline-dev zlib1g-dev libzmq3-dev m4 python3 python3-pip python3-venv wget > /dev/null 2>&1 &
+apt-get -y install build-essential autoconf libtool libgmp-dev libreadline-dev zlib1g-dev libzmq3-dev m4 python3 python3-pip python3-venv wget pandoc texlive-xetex texlive-fonts-recommended texlive-plain-generic > /dev/null 2>&1 &
 spinner $!
 echo ""
 
