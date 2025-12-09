@@ -43,7 +43,9 @@ quit;
 ```
 
 ### Comprobar la instalación del kernel de GAP
+Ejecutar desde la carpeta del usuario:
 ```bash
+source ./gap-env/bin/activate
 jupyter kernelspec list
 ```
 
